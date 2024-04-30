@@ -2,6 +2,8 @@
 
 This Python script automates the process of scraping hardware specifications from the Lenovo support website. It uses Selenium WebDriver to interact with the website and extract relevant information.
 
+![enter image description here](https://github.com/whalelinguni/LenovoScrapeSpecs/blob/main/LenovoScrape.png?raw=true)
+
 ## Usage
 
 To use this script, follow the instructions below:
