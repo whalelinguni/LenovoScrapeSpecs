@@ -1,6 +1,6 @@
-# Lenovo Warranty Lookup and Hardware Specifications Scraper
+# Lenovo Hardware Specifications Scraper
 
-This Python script automates the process of looking up warranty information for Lenovo products and scraping hardware specifications from the Lenovo support website. It uses Selenium WebDriver to interact with the website and extract relevant information.
+This Python script automates the process of scraping hardware specifications from the Lenovo support website. It uses Selenium WebDriver to interact with the website and extract relevant information.
 
 ## Usage
 
